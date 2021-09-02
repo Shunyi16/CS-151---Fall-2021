@@ -1,0 +1,5 @@
+src/GitTesting/PassWord.java
+out/
+.DS_Store
+.idea/
+*.iml
